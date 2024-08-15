@@ -1,0 +1,1 @@
+There was time when neede to get contact information from over 100 contracts. Job was tedious to open document file, select contact information and paste into excel file. These same steps are integrated into script to find neccesarry information and to put it into excel file in readable condition. Script 'goes' through each flder and operates each document file by regex funcions.
